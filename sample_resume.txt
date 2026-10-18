@@ -1,0 +1,14 @@
+
+Name: Priya Patel
+
+Email: priya.patel@example.com
+
+Education: Bachelor of Science in Information Technology
+
+Skills: Java, SQL, HTML, CSS
+
+Experience: 2 years working as a Web Developer.
+
+Projects:
+1. Personal Portfolio Website.
+2. Employee Management System.
