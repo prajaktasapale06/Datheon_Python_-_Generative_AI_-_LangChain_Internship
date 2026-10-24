@@ -4,3 +4,14 @@
 __pycache__/
 *.py[cod]
 output.json
+
+# Task 2 - RAG Document Q&A
+Task-2-RAG-Document-QA/.env
+Task-2-RAG-Document-QA/.venv/
+Task-2-RAG-Document-QA/__pycache__/
+Task-2-RAG-Document-QA/chroma_db/
+Task-2-RAG-Document-QA/documents/
+
+# Python generated files
+__pycache__/
+*.py[cod]
