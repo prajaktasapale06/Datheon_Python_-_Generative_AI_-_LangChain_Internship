@@ -1,0 +1,6 @@
+Project: Campus AI Assistant
+
+The project helps students find information about campus facilities.
+The library is open from 9 AM to 6 PM, Monday through Saturday.
+The computer lab contains 60 computers.
+The college cafeteria serves lunch from 12 PM to 2 PM.
